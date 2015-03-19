@@ -43,6 +43,10 @@ margin: 0 auto;
 background: #000 url(images/baybridge.JPG) no-repeat left top;
 }
 
+header#gallery {
+background: #000 url(images/camera.jpg) no-repeat left top;}
+
+
 #main {
 width: 940px;
 margin: 0 auto;
